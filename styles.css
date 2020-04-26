@@ -1,0 +1,36 @@
+html 
+{
+    background:url('images/background-1.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+}
+body
+{
+    background: none;
+    height:100%;
+}
+.container 
+{
+    text-align: center;
+    width: 500px;
+    margin-top: 150px;
+}
+small
+{
+    position:relative;
+    color:white;
+    left: -90px;
+}
+a:not([href]) 
+{
+    color: #007bff;
+}
+.container-fluid
+{
+    height:100%;
+    margin-top:25px;
+}
+#diary 
+{
+    height:100%;
+}
